@@ -1,0 +1,9 @@
+to include just open like :
+gnumeric test1.gnumeric test2.gnumeric 
+and then refeer to them like
+=[test1.csv]Sheet1A1:B1000
+
+to convert csv to gnumeric :
+ssconvert test1.csv test1.gnumeric
+
+
